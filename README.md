@@ -9,6 +9,7 @@ Solutions of [LeeCode](https://leetcode.com/) Problems.
 |-----|-------------------|---------------|-------------------------------------------------------------------------------------------------|
 |1    |Two Sum            |Easy           |[Details](https://github.com/pwcong/leetcode-solutions/tree/master/Algorithms/1.TwoSum)          |
 |2    |Add Two Numbers    |Medium         |[Details](https://github.com/pwcong/leetcode-solutions/tree/master/Algorithms/2.AddTwoNumbers)   |
+|3    |Longest Substring Without Repeating Characters |Medium         |[Details](https://github.com/pwcong/leetcode-solutions/tree/master/Algorithms/3.LongestSubstringWithoutRepeatingCharacters)   |
 
 ## Database
 
